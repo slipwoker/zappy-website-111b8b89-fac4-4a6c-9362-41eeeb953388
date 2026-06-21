@@ -12160,12 +12160,12 @@ window.onload = function() {
                 '[social_facebook]',
                 '[social instagram]',
                 '[social_instagram]',
-                '[social whatsapp]',
-                '[social_whatsapp]',
+                'https://wa.me/972556852445',
+                'https://wa.me/972556852445',
                 '[social_twitter]',
                 '[social_linkedin]',
-                '[social_youtube]',
-                '[social_tiktok]',
+                'https://youtube.com/@channel/UCRE9p3xfn6eE5WLhnegjorg?si=cG8HqcJRmvT6yOjT',
+                'https://tiktok.com/@user5939603216843?is_from_webapp=1&sender_device=pc',
                 '[social_pinterest]'
             ];
             
