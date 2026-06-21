@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://-111b8b89.zappy5.app
+https://example.com
 החנות המקוונת המובילה לצעצועים ומשחקים לכל המשפחה. מבחר ענק של בובות, משחקי קופסה, לגו ועוד במחירים שווים. היכנסו עכשיו והפכו כל יום להרפתקה!
 
 ### רעיונות למתנות
-https://-111b8b89.zappy5.app/gift-ideas
+https://example.com/gift-ideas
 מתלבטים מה לקנות? מדריך רעיונות למתנות שיהפכו כל אירוע לקסום. המלצות חמות לצעצועים אהובים כמו מיי ליטל פוני, משחקי חשיבה ועוד. גלו את המתנה המושלמת עכשיו!
 
 ### אודות
-https://-111b8b89.zappy5.app/about
+https://example.com/about
 הסיפור שלנו מתחיל באהבה למשחק ולדמיון. אנחנו בוחרים בקפידה כל צעצוע כדי להביא לכם איכות, בטיחות וחיוכים. הצטרפו לקהילת המשפחות שלנו ולמדו עוד על החזון שמניע אותנו.
 
 ### צור קשר
-https://-111b8b89.zappy5.app/contact
+https://example.com/contact
 צריכים עזרה בבחירת הצעצוע המושלם? רוצים לשתף חוויה? צוות המומחים שלנו כאן לכל שאלה או בקשה. מלאו את הטופס ונדאג לחזור אליכם במהירות עם חיוך גדול.
 
 ### Products
-https://-111b8b89.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - אתר צעצועים
 
 ### Cart
-https://-111b8b89.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-111b8b89.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-111b8b89.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-111b8b89.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-111b8b89.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-111b8b89.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - אתר צעצועים
 
 ### Category
-https://-111b8b89.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - אתר צעצועים
 
 ### תודה רבה | אתר צעצועים
-https://-111b8b89.zappy5.app/thank-you
+https://example.com/thank-you
 תודה שפנית אלינו. הפנייה שלך התקבלה בהצלחה ונציג מטעמנו יחזור אליך בהקדם האפשרי.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-111b8b89.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-111b8b89.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-111b8b89.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -97,8 +97,8 @@ Toys & Games
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-111b8b89.zappy5.app/sitemap.xml
-- Robots: https://-111b8b89.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-111b8b89.zappy5.app/llms-full.txt
-- Products (JSON): https://-111b8b89.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-111b8b89.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml

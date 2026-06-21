@@ -2,13 +2,13 @@
 
 A toy store business seeking an online presence. The brand revolves around toys and games, likely targeting children and families. Further details about the store's personality, unique offerings, and brand identity are needed.
 
-Source: https://-111b8b89.zappy5.app
+Source: https://example.com
 
 ---
 
 ## גלו עולם קסום של משחקים וצעצועים — אתר צעצועים
 
-URL: https://-111b8b89.zappy5.app
+URL: https://example.com
 Description: החנות המקוונת המובילה לצעצועים ומשחקים לכל המשפחה. מבחר ענק של בובות, משחקי קופסה, לגו ועוד במחירים שווים. היכנסו עכשיו והפכו כל יום להרפתקה!
 
 גלו עולם קסום של משחקים וצעצועים — אתר צעצועים
@@ -507,7 +507,7 @@ Description: החנות המקוונת המובילה לצעצועים ומשח�
 
 ## איזה מתנה תגרום להם לחייך היום? — אתר צעצועים
 
-URL: https://-111b8b89.zappy5.app/gift-ideas
+URL: https://example.com/gift-ideas
 Description: מתלבטים מה לקנות? מדריך רעיונות למתנות שיהפכו כל אירוע לקסום. המלצות חמות לצעצועים אהובים כמו מיי ליטל פוני, משחקי חשיבה ועוד. גלו את המתנה המושלמת עכשיו!
 
 איזה מתנה תגרום להם לחייך היום? — אתר צעצועים
@@ -982,7 +982,7 @@ Description: מתלבטים מה לקנות? מדריך רעיונות למתנ�
 
 ## הכירו את הלב הפועם מאחורי המשחק — אתר צעצועים
 
-URL: https://-111b8b89.zappy5.app/about
+URL: https://example.com/about
 Description: הסיפור שלנו מתחיל באהבה למשחק ולדמיון. אנחנו בוחרים בקפידה כל צעצוע כדי להביא לכם איכות, בטיחות וחיוכים. הצטרפו לקהילת המשפחות שלנו ולמדו עוד על החזון שמניע אותנו.
 
 הכירו את הלב הפועם מאחורי המשחק — אתר צעצועים
@@ -1382,7 +1382,7 @@ Description: הסיפור שלנו מתחיל באהבה למשחק ולדמיו
 
 ## יש לכם שאלה? בואו נשחק ביחד! — אתר צעצועים
 
-URL: https://-111b8b89.zappy5.app/contact
+URL: https://example.com/contact
 Description: צריכים עזרה בבחירת הצעצוע המושלם? רוצים לשתף חוויה? צוות המומחים שלנו כאן לכל שאלה או בקשה. מלאו את הטופס ונדאג לחזור אליכם במהירות עם חיוך גדול.
 
 יש לכם שאלה? בואו נשחק ביחד! — אתר צעצועים
@@ -1845,7 +1845,7 @@ Description: צריכים עזרה בבחירת הצעצוע המושלם? רו�
 
 ## מוצרים
 
-URL: https://-111b8b89.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - אתר צעצועים
 
 מוצרים - אתר צעצועים
@@ -2095,7 +2095,7 @@ Description: המוצרים שלנו - אתר צעצועים
 
 ## עגלת קניות
 
-URL: https://-111b8b89.zappy5.app/cart
+URL: https://example.com/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - אתר צעצועים
@@ -2321,7 +2321,7 @@ Description: עגלת הקניות שלך
 
 ## תשלום
 
-URL: https://-111b8b89.zappy5.app/checkout
+URL: https://example.com/checkout
 Description: תשלום
 
 תשלום - אתר צעצועים
@@ -2733,7 +2733,7 @@ Description: תשלום
 
 ## התחברות
 
-URL: https://-111b8b89.zappy5.app/login
+URL: https://example.com/login
 Description: התחברות לקוחות
 
 התחברות - אתר צעצועים
@@ -2966,7 +2966,7 @@ Description: התחברות לקוחות
 
 ## החשבון שלי
 
-URL: https://-111b8b89.zappy5.app/account
+URL: https://example.com/account
 Description: החשבון שלי
 
 החשבון שלי - אתר צעצועים
@@ -3354,7 +3354,7 @@ Description: החשבון שלי
 
 ## ההזמנה התקבלה!
 
-URL: https://-111b8b89.zappy5.app/order-success
+URL: https://example.com/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - אתר צעצועים
@@ -3604,7 +3604,7 @@ Description: תודה על ההזמנה
 
 ## מדיניות החזרות
 
-URL: https://-111b8b89.zappy5.app/return-policy
+URL: https://example.com/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - אתר צעצועים
@@ -3883,7 +3883,7 @@ Description: מדיניות החזרת מוצרים - זכויותיכם להח�
 
 ## פרטי המוצר
 
-URL: https://-111b8b89.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - אתר צעצועים
 
 פרטי המוצר - אתר צעצועים
@@ -4111,7 +4111,7 @@ Description: פרטי המוצר - אתר צעצועים
 
 ## מוצרים
 
-URL: https://-111b8b89.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - אתר צעצועים
 
 מוצרים - אתר צעצועים
@@ -4363,7 +4363,7 @@ Description: מוצרים - אתר צעצועים
 
 ## מדיניות פרטיות
 
-URL: https://-111b8b89.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -4633,7 +4633,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-111b8b89.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -4912,7 +4912,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-111b8b89.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -5210,7 +5210,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## תודה רבה | אתר צעצועים
 
-URL: https://-111b8b89.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: תודה שפנית אלינו. הפנייה שלך התקבלה בהצלחה ונציג מטעמנו יחזור אליך בהקדם האפשרי.
 
 תודה רבה | אתר צעצועים
