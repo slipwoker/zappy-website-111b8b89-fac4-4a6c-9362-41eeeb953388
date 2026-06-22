@@ -12157,9 +12157,9 @@ window.onload = function() {
                 '[tiktok_handle]',
                 '[pinterest_handle]',
                 // Old format (full URL placeholders)
-                '[social_facebook]',
-                '[social instagram]',
-                '[social_instagram]',
+                'https://facebook.com/share/1BT5oDHYQg/?mibextid=wwXIfr',
+                'https://instagram.com/lbya530?igsh=MTRzdjNkNTZ0ZzNvOA%3D%3D&utm_source=qr',
+                'https://instagram.com/lbya530?igsh=MTRzdjNkNTZ0ZzNvOA%3D%3D&utm_source=qr',
                 'https://wa.me/972556852445',
                 'https://wa.me/972556852445',
                 '[social_twitter]',
