@@ -4464,3 +4464,12 @@ Description: תודה שפנית אלינו. הפנייה שלך התקבלה ב
 
 ---
 
+## Product Catalog
+
+### יויו אדום
+URL: https://example.com/product/yvyv-advm-eq52ch
+Price: 5.00 ILS
+Availability: In stock
+
+---
+

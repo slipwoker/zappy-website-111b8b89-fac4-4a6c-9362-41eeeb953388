@@ -4,6 +4,19 @@
     <title>אתר צעצועים</title>
     <link>https://example.com</link>
     <description>Product feed for אתר צעצועים</description>
-    <lastBuildDate>Mon, 22 Jun 2026 06:01:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 06:59:58 GMT</lastBuildDate>
+    <item>
+      <g:id>d81259cd-3135-45aa-8dbd-b4aeceac9443</g:id>
+      <g:title>יויו אדום</g:title>
+      <g:description>יויו אדום</g:description>
+      <g:link>https://example.com/product/yvyv-advm-eq52ch</g:link>
+      <g:image_link>https://example.com/assets/product-1782111494575-nl0p9u.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>5.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>אתר צעצועים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>מוצרים</g:product_type>
+    </item>
   </channel>
 </rss>
